@@ -109,9 +109,6 @@ We will need the password entered when we created the asymmetric key pair. Now w
 chmod +rwx SQL.sh
 ```
 
-The requested text appears to be a documentation or explanation of a script or program related to SQL and data manipulation. Here's the translation:
-
-```
 The +rwx parameter indicates that these permissions have been added to the SQL script. To remove the permissions of this file, we can use the chmod function again, but with the -rwx parameter. To add this script to the PATH, we need root access and can use the EXPORT command. The syntax is as follows:
 
 ```
