@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)]([https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.en.md](https://github.com/TIPYexe/SQL-Simulation/blob/master/README.en.md))
+[![ro](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
 
 # PROIECT UTILIZAREA SISTEMELOR DE OPERARE
 
