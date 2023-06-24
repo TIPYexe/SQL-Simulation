@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/TIPYexe/SQL-Simulation/blob/master/README.en.md)
+[![ro](https://img.shields.io/badge/lang-ro-green.svg)](https://github.com/TIPYexe/SQL-Simulation/blob/master/README.md)
+
 # PROJECT: OPERATING SYSTEM USAGE
 
 Scientific Coordinator:
